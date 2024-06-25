@@ -7,4 +7,7 @@ fun main(args: Array<String>) {
 
     println("Learnig git 1.1")
 
+    println("Learnig stash")
+
+    print("this is git stash")
 }
